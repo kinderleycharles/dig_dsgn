@@ -1,0 +1,93 @@
+{C:/Users/Kin/Desktop/Digital Design/Lab06/row_address_gen.vhd} {2 {vcom -work work -2002 -explicit {C:/Users/Kin/Desktop/Digital Design/Lab06/row_address_gen.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package VGA_LIB
+-- Compiling entity row_address_gen
+-- Compiling architecture gen of row_address_gen
+** Warning: [9] C:/Users/Kin/Desktop/Digital Design/Lab06/row_address_gen.vhd(17): (vcom-1013) Initial value of "button_nat" depends on value of signal "button_n".
+
+** Warning: [9] C:/Users/Kin/Desktop/Digital Design/Lab06/row_address_gen.vhd(18): (vcom-1013) Initial value of "Vcount_nat" depends on value of signal "Vcount".
+
+
+} {} {}} {C:/Users/Kin/Desktop/Digital Design/Lab06/vga_tb.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/Kin/Desktop/Digital Design/Lab06/vga_tb.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package VGA_LIB
+-- Compiling entity vga_tb
+-- Compiling architecture TB of vga_tb
+
+} {} {}} {C:/Users/Kin/Desktop/Digital Design/Lab06/VGA_sync_gen.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/Kin/Desktop/Digital Design/Lab06/VGA_sync_gen.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package VGA_LIB
+-- Compiling entity VGA_sync_gen
+-- Compiling architecture model_1proc of VGA_sync_gen
+-- Compiling architecture model_2proc of VGA_sync_gen
+-- Loading entity VGA_sync_gen
+
+} {} {}} {C:/Users/Kin/Desktop/Digital Design/Lab06/col_address_gen.vhd} {2 {vcom -work work -2002 -explicit {C:/Users/Kin/Desktop/Digital Design/Lab06/col_address_gen.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package VGA_LIB
+-- Compiling entity col_address_gen
+-- Compiling architecture gen of col_address_gen
+** Warning: [9] C:/Users/Kin/Desktop/Digital Design/Lab06/col_address_gen.vhd(17): (vcom-1013) Initial value of "button_nat" depends on value of signal "button_n".
+
+** Warning: [9] C:/Users/Kin/Desktop/Digital Design/Lab06/col_address_gen.vhd(18): (vcom-1013) Initial value of "Hcount_nat" depends on value of signal "Hcount".
+
+
+} {} {}} {C:/Users/Kin/Desktop/Digital Design/Lab06/VGA_sync_gen_tb.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/Kin/Desktop/Digital Design/Lab06/VGA_sync_gen_tb.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package VGA_LIB
+-- Compiling entity VGA_sync_gen_tb
+-- Compiling architecture TB of VGA_sync_gen_tb
+-- Loading package MATH_REAL
+-- Loading entity clk_div
+-- Loading entity VGA_sync_gen
+
+} {} {}} {C:/Users/Kin/Desktop/Digital Design/Lab06/clk_div.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/Kin/Desktop/Digital Design/Lab06/clk_div.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package MATH_REAL
+-- Compiling entity clk_div
+-- Compiling architecture div of clk_div
+
+} {} {}} {C:/Users/Kin/Desktop/Digital Design/Lab06/ROM_test.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/Kin/Desktop/Digital Design/Lab06/ROM_test.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package VGA_LIB
+-- Compiling entity Rom_test
+-- Compiling architecture arch of Rom_test
+
+} {} {}} {C:/Users/Kin/Desktop/Digital Design/Lab06/clk_div_tb.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/Kin/Desktop/Digital Design/Lab06/clk_div_tb.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity clk_div_tb
+-- Compiling architecture TB of clk_div_tb
+
+} {} {}}

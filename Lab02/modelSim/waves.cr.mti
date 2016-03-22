@@ -1,0 +1,92 @@
+{C:/Users/Kin/Desktop/Digital Design/Lab03/timing_tb.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/Kin/Desktop/Digital Design/Lab03/timing_tb.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity timing_tb
+-- Compiling architecture TB of timing_tb
+-- Loading entity adder_top
+
+} {} {}} {C:/Users/Kin/Desktop/Digital Design/Lab03/adder_tb.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/Kin/Desktop/Digital Design/Lab03/adder_tb.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity adder_tb
+-- Compiling architecture TB of adder_tb
+-- Compiling configuration TB_CONFIG
+-- Loading entity adder_tb
+-- Loading architecture TB of adder_tb
+-- Loading entity adder
+
+} {} {}} {C:/Users/Kin/Desktop/Digital Design/Lab03/adder_top.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/Kin/Desktop/Digital Design/Lab03/adder_top.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity adder_top
+-- Compiling architecture STR of adder_top
+-- Compiling configuration ADDER_TOP_CONFIG
+-- Loading entity adder_top
+-- Loading architecture STR of adder_top
+-- Loading package NUMERIC_STD
+-- Loading entity adder
+
+} {} {}} {C:/Users/Kin/Desktop/Digital Design/Lab03/cla2.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/Kin/Desktop/Digital Design/Lab03/cla2.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity cla2
+-- Compiling architecture CLA_2BIT of cla2
+
+} {} {}} {C:/Users/Kin/Desktop/Digital Design/Lab03/fa.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/Kin/Desktop/Digital Design/Lab03/fa.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity fa
+-- Compiling architecture FULL_ADDER of fa
+
+} {} {}} {C:/Users/Kin/Desktop/Digital Design/Lab03/cgen2.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/Kin/Desktop/Digital Design/Lab03/cgen2.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity cgen2
+-- Compiling architecture GEN of cgen2
+
+} {} {}} {C:/Users/Kin/Desktop/Digital Design/Lab03/adder.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/Kin/Desktop/Digital Design/Lab03/adder.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity adder
+-- Compiling architecture RIPPLE_CARRY of adder
+-- Loading entity fa
+-- Compiling architecture CARRY_LOOKAHEAD of adder
+-- Loading entity adder
+-- Compiling architecture CARRY_LOOKAHEAD_BAD_SYNTHESIS of adder
+-- Loading entity adder
+-- Compiling architecture HIERARCHICAL of adder
+-- Loading entity adder
+-- Loading entity cla4
+-- Loading entity cgen2
+
+} {} {}} {C:/Users/Kin/Desktop/Digital Design/Lab03/cla4.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/Kin/Desktop/Digital Design/Lab03/cla4.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity cla4
+-- Compiling architecture CLA_4BIT of cla4
+-- Loading entity cla2
+-- Loading entity cgen2
+
+} {} {}}

@@ -1,0 +1,26 @@
+
+State Machine - |top_level|quiz:U_QUIZ|curr_state
+Name curr_state.STATE3 curr_state.STATE2 curr_state.STATE1 curr_state.STATE0 
+curr_state.STATE0 0 0 0 0 
+curr_state.STATE1 0 0 1 1 
+curr_state.STATE2 0 1 0 1 
+curr_state.STATE3 1 0 0 1 
+
+State Machine - |top_level|gray2:U_GRAY|curr_state
+Name curr_state.STATE15 curr_state.STATE14 curr_state.STATE13 curr_state.STATE12 curr_state.STATE11 curr_state.STATE10 curr_state.STATE9 curr_state.STATE8 curr_state.STATE7 curr_state.STATE6 curr_state.STATE5 curr_state.STATE4 curr_state.STATE3 curr_state.STATE2 curr_state.STATE1 curr_state.STATE0 
+curr_state.STATE0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+curr_state.STATE1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 
+curr_state.STATE2 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 
+curr_state.STATE3 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 
+curr_state.STATE4 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 
+curr_state.STATE5 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 
+curr_state.STATE6 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 
+curr_state.STATE7 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 
+curr_state.STATE8 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 
+curr_state.STATE9 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 
+curr_state.STATE10 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 
+curr_state.STATE11 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 
+curr_state.STATE12 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 
+curr_state.STATE13 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 
+curr_state.STATE14 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+curr_state.STATE15 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 

@@ -1,0 +1,579 @@
+m255
+K3
+13
+cModel Technology
+dC:\Users\Kin\Desktop\Digital Design\Lab04\modelSim
+Ecomparator
+Z0 w1456507910
+Z1 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 dC:\Users\Kin\Desktop\Digital Design\Lab05\modelSim
+Z5 8C:/Users/Kin/Desktop/Digital Design/Lab05/comparator.vhd
+Z6 FC:/Users/Kin/Desktop/Digital Design/Lab05/comparator.vhd
+l0
+L5
+V2kKaZj:=>mJXzCWMb[30[2
+Z7 OV;C;10.1d;51
+32
+Z8 !s108 1456531474.588000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Kin/Desktop/Digital Design/Lab05/comparator.vhd|
+Z10 !s107 C:/Users/Kin/Desktop/Digital Design/Lab05/comparator.vhd|
+Z11 o-work work -2002 -explicit -O0
+Z12 tExplicit 1
+!s100 PcATQR0llaAbkEJhSgnf81
+!i10b 1
+Abhv
+R1
+R2
+R3
+Z13 DEx4 work 10 comparator 0 22 2kKaZj:=>mJXzCWMb[30[2
+l16
+L15
+V9P]V]B`]_h6J2nNL2ZB313
+R7
+32
+R8
+R9
+R10
+R11
+R12
+!s100 gFQgVgCMa:Ve>KRZ4?:Ek1
+!i10b 1
+Ectrl1
+Z14 w1456531467
+R2
+R3
+R4
+Z15 8C:/Users/Kin/Desktop/Digital Design/Lab05/ctrl1.vhd
+Z16 FC:/Users/Kin/Desktop/Digital Design/Lab05/ctrl1.vhd
+l0
+L4
+V=ZTS>bZIj7AWeTb77Ab;51
+R7
+32
+Z17 !s108 1456531474.884000
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Kin/Desktop/Digital Design/Lab05/ctrl1.vhd|
+Z19 !s107 C:/Users/Kin/Desktop/Digital Design/Lab05/ctrl1.vhd|
+R11
+R12
+!s100 XL^A?6F]z>GH7>Ye;eUcR0
+!i10b 1
+Abhv
+R2
+R3
+Z20 DEx4 work 5 ctrl1 0 22 =ZTS>bZIj7AWeTb77Ab;51
+l18
+L13
+VNNdVVXhAzFio03B207Ubn1
+R7
+32
+R17
+R18
+R19
+R11
+R12
+!s100 R4GdMO>3Vd;fkl:Ld?Q;81
+!i10b 1
+Ectrl2
+Z21 w1456516661
+R2
+R3
+R4
+Z22 8C:/Users/Kin/Desktop/Digital Design/Lab05/ctrl2.vhd
+Z23 FC:/Users/Kin/Desktop/Digital Design/Lab05/ctrl2.vhd
+l0
+L4
+Vcf3U;]ZZ=k:ojPH2E:lEU1
+R7
+32
+Z24 !s108 1456531477.614000
+Z25 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Kin/Desktop/Digital Design/Lab05/ctrl2.vhd|
+Z26 !s107 C:/Users/Kin/Desktop/Digital Design/Lab05/ctrl2.vhd|
+R11
+R12
+!s100 D]e_DNj@ZVTFOm^?LQWYM1
+!i10b 1
+Abhv
+R2
+R3
+Z27 DEx4 work 5 ctrl2 0 22 cf3U;]ZZ=k:ojPH2E:lEU1
+l18
+L13
+VEL>F3JlJ^Wo?D;oTWYXb?3
+R7
+32
+R24
+R25
+R26
+R11
+R12
+!s100 0hlZJVl_>Y:@HHM<a<58H3
+!i10b 1
+Edatapath1
+Z28 w1456507890
+R2
+R3
+R4
+Z29 8C:/Users/Kin/Desktop/Digital Design/Lab05/datapath1.vhd
+Z30 FC:/Users/Kin/Desktop/Digital Design/Lab05/datapath1.vhd
+l0
+L4
+VlbFUJO78EkG[LQFP4H4552
+R7
+32
+Z31 !s108 1456531475.227000
+Z32 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Kin/Desktop/Digital Design/Lab05/datapath1.vhd|
+Z33 !s107 C:/Users/Kin/Desktop/Digital Design/Lab05/datapath1.vhd|
+R11
+R12
+!s100 HTbOY2On<AOa`mQOhkW4K1
+!i10b 1
+Abhv
+Z34 DEx4 work 10 subtractor 0 22 NN0XTZOnR5XE4E:k@kJLI1
+R1
+R13
+Z35 DEx4 work 3 reg 0 22 c8kzPElA:;[2f3M5_JmAh1
+Z36 DEx4 work 5 mux21 0 22 2>4IRWcOIcDjN;Eb`O_fB0
+R2
+R3
+Z37 DEx4 work 9 datapath1 0 22 lbFUJO78EkG[LQFP4H4552
+l18
+L16
+VC@6:Lh6;:L@LAJKDU5j7O1
+R7
+32
+R31
+R32
+R33
+R11
+R12
+!s100 zD2XB3dQ3UW3c]C]CNb1H2
+!i10b 1
+Edatapath2
+Z38 w1456519530
+R2
+R3
+R4
+Z39 8C:/Users/Kin/Desktop/Digital Design/Lab05/datapath2.vhd
+Z40 FC:/Users/Kin/Desktop/Digital Design/Lab05/datapath2.vhd
+l0
+L4
+V@nlMi<YoQ>FA9jBVVQcil0
+R7
+32
+Z41 !s108 1456531478.254000
+Z42 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Kin/Desktop/Digital Design/Lab05/datapath2.vhd|
+Z43 !s107 C:/Users/Kin/Desktop/Digital Design/Lab05/datapath2.vhd|
+R11
+R12
+!s100 IFJ1CPU?GnFX>:6:09^U:3
+!i10b 1
+Abhv
+R34
+R1
+R13
+R35
+R36
+R2
+R3
+Z44 DEx4 work 9 datapath2 0 22 @nlMi<YoQ>FA9jBVVQcil0
+l20
+L16
+VPl:OI=DE<hiBM6;:DDBJ<2
+R7
+32
+R41
+R42
+R43
+R11
+R12
+!s100 <5JVDFT>7JX@l@W7fC2UH3
+!i10b 1
+Edatapath_component_tb
+Z45 w1456450042
+R1
+R2
+R3
+R4
+Z46 8C:/Users/Kin/Desktop/Digital Design/Lab05/datapath_component_tb.vhd
+Z47 FC:/Users/Kin/Desktop/Digital Design/Lab05/datapath_component_tb.vhd
+l0
+L5
+VnP3RPHd?TZH^@FObaQSK>2
+R7
+32
+Z48 !s108 1456450049.522000
+Z49 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Kin/Desktop/Digital Design/Lab05/datapath_component_tb.vhd|
+Z50 !s107 C:/Users/Kin/Desktop/Digital Design/Lab05/datapath_component_tb.vhd|
+R11
+R12
+!s100 A4QP>2k8JjKd;C<FXG`Fd0
+!i10b 1
+Atb
+R36
+R1
+R2
+R3
+DEx4 work 21 datapath_component_tb 0 22 nP3RPHd?TZH^@FObaQSK>2
+l20
+L8
+VDWkX7zg@X3;]bGDBY]Qi21
+R7
+32
+R48
+R49
+R50
+R11
+R12
+!s100 LUM^5Zgd7Q0PFIJ[;IY=h0
+!i10b 1
+Efsm_d1
+Z51 w1456470105
+R2
+R3
+R4
+Z52 8C:/Users/Kin/Desktop/Digital Design/Lab05/FSM_D1.vhd
+Z53 FC:/Users/Kin/Desktop/Digital Design/Lab05/FSM_D1.vhd
+l0
+L4
+VKl_b=eJ458N5>I5i55]TS3
+R7
+32
+Z54 !s108 1456470114.929000
+Z55 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Kin/Desktop/Digital Design/Lab05/FSM_D1.vhd|
+Z56 !s107 C:/Users/Kin/Desktop/Digital Design/Lab05/FSM_D1.vhd|
+R11
+R12
+!s100 XFB=4>XdW8O?97jfFTzGQ0
+!i10b 1
+Abhv
+R20
+R37
+R2
+R3
+DEx4 work 6 fsm_d1 0 22 Kl_b=eJ458N5>I5i55]TS3
+l17
+L15
+VCICLHcVJ2WfPTc=BN5Zzn0
+R7
+32
+R54
+R55
+R56
+R11
+R12
+!s100 ;RCgLofO3=YI6IEYPmGZ81
+!i10b 1
+Egcd
+Z57 w1456517445
+R1
+R2
+R3
+R4
+Z58 8C:/Users/Kin/Desktop/Digital Design/Lab05/gcd.vhd
+Z59 FC:/Users/Kin/Desktop/Digital Design/Lab05/gcd.vhd
+l0
+L5
+VKiPifS8XCT=F151zOLHle1
+R7
+32
+Z60 !s108 1456531476.974000
+Z61 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Kin/Desktop/Digital Design/Lab05/gcd.vhd|
+Z62 !s107 C:/Users/Kin/Desktop/Digital Design/Lab05/gcd.vhd|
+R11
+R12
+!s100 NS1[mF8KLQgQ`Dg[RkPTQ3
+!i10b 1
+Afsmd2
+R1
+R2
+R3
+Z63 DEx4 work 3 gcd 0 22 KiPifS8XCT=F151zOLHle1
+l182
+L180
+V30VcTiDLeO>c8]Lf=l=B00
+R7
+32
+R60
+R61
+R62
+R11
+R12
+!s100 420h4AC8P^OF>QPFRm@eP2
+!i10b 1
+Afsm_d2
+R27
+R44
+R1
+R2
+R3
+R63
+l142
+L140
+V<TQ9[o=?lWXLJfI<MEP5A1
+R7
+32
+R60
+R61
+R62
+R11
+R12
+!s100 T=6NQYhnA22LTAJhTD`dI0
+!i10b 1
+Afsm_d1
+R20
+R37
+R1
+R2
+R3
+R63
+l104
+L102
+VPPT81?EZQGSDY>Yoh5JTB3
+R7
+32
+R60
+R61
+R62
+R11
+R12
+!s100 RWAlfzJG?KRml=h<VK5@?3
+!i10b 1
+Afsmd
+R1
+R2
+R3
+R63
+l25
+L19
+V4G>[42VGUUneLE6@0<0J`2
+R7
+32
+R60
+R61
+R62
+R11
+R12
+!s100 YockP]kg=^jOzPK0em44b1
+!i10b 1
+Egcd_tb
+Z64 w1456530257
+R1
+R2
+R3
+R4
+Z65 8C:/Users/Kin/Desktop/Digital Design/Lab05/gcd_tb.vhd
+Z66 FC:/Users/Kin/Desktop/Digital Design/Lab05/gcd_tb.vhd
+l0
+L5
+VWHNUS6HG12EiXT<R2abTd3
+R7
+32
+Z67 !s108 1456531476.662000
+Z68 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Kin/Desktop/Digital Design/Lab05/gcd_tb.vhd|
+Z69 !s107 C:/Users/Kin/Desktop/Digital Design/Lab05/gcd_tb.vhd|
+R11
+R12
+!s100 7>>fD8ngA5J3b44S>BJ4c0
+!i10b 1
+Atb
+R63
+R1
+R2
+R3
+DEx4 work 6 gcd_tb 0 22 WHNUS6HG12EiXT<R2abTd3
+l22
+L8
+VKc5H;QzVG@fRjX@A:b[U52
+R7
+32
+R67
+R68
+R69
+R11
+R12
+!s100 ECBd@]jjfFVFC5Pl^Zb@70
+!i10b 1
+Emux21
+Z70 w1456449547
+R2
+R3
+R4
+Z71 8C:/Users/Kin/Desktop/Digital Design/Lab05/mux21.vhd
+Z72 FC:/Users/Kin/Desktop/Digital Design/Lab05/mux21.vhd
+l0
+L4
+V2>4IRWcOIcDjN;Eb`O_fB0
+R7
+32
+Z73 !s108 1456531475.602000
+Z74 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Kin/Desktop/Digital Design/Lab05/mux21.vhd|
+Z75 !s107 C:/Users/Kin/Desktop/Digital Design/Lab05/mux21.vhd|
+R11
+R12
+!s100 9R9hScKPF:^VmM<JLeA:M2
+!i10b 1
+Abhv
+R2
+R3
+R36
+l16
+L15
+Vb8nGd5R;FJncKGPAb?Mck1
+R7
+32
+R73
+R74
+R75
+R11
+R12
+!s100 gcll>9_H@b:1>1k::9IdV3
+!i10b 1
+Ereg
+Z76 w1456530517
+R2
+R3
+R4
+Z77 8C:/Users/Kin/Desktop/Digital Design/Lab05/reg.vhd
+Z78 FC:/Users/Kin/Desktop/Digital Design/Lab05/reg.vhd
+l0
+L4
+Vc8kzPElA:;[2f3M5_JmAh1
+R7
+32
+Z79 !s108 1456531476.038000
+Z80 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Kin/Desktop/Digital Design/Lab05/reg.vhd|
+Z81 !s107 C:/Users/Kin/Desktop/Digital Design/Lab05/reg.vhd|
+R11
+R12
+!s100 VfH0G1511hS>JJSHQQNmW1
+!i10b 1
+Abhv
+R2
+R3
+R35
+l17
+L15
+VMB6@JjWK6[PIFo1j9f7mk0
+R7
+32
+R79
+R80
+R81
+R11
+R12
+!s100 1U>2YDn2<ERU2;L5[DT:f2
+!i10b 1
+Esubtractor
+Z82 w1456506703
+R1
+R2
+R3
+R4
+Z83 8C:/Users/Kin/Desktop/Digital Design/Lab05/subtractor.vhd
+Z84 FC:/Users/Kin/Desktop/Digital Design/Lab05/subtractor.vhd
+l0
+L8
+VNN0XTZOnR5XE4E:k@kJLI1
+R7
+32
+Z85 !s108 1456531476.382000
+Z86 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Kin/Desktop/Digital Design/Lab05/subtractor.vhd|
+Z87 !s107 C:/Users/Kin/Desktop/Digital Design/Lab05/subtractor.vhd|
+R11
+R12
+!s100 n4<e0_AhQ9XT3132BL2Vm3
+!i10b 1
+Abhv
+R1
+R2
+R3
+R34
+l19
+L18
+VDd5YhE6Yl38YN7KHBiJo=0
+R7
+32
+R85
+R86
+R87
+R11
+R12
+!s100 =hd^ACDze[FcO^f4Njgln0
+!i10b 1
+Euart
+Z88 w1456539153
+R1
+R2
+R3
+R4
+Z89 8C:/Users/Kin/Desktop/Digital Design/Lab05/uart.vhd
+Z90 FC:/Users/Kin/Desktop/Digital Design/Lab05/uart.vhd
+l0
+L5
+V6TMAeo57SZ66j32D02C3Q2
+R7
+32
+Z91 !s108 1456539342.658000
+Z92 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Kin/Desktop/Digital Design/Lab05/uart.vhd|
+Z93 !s107 C:/Users/Kin/Desktop/Digital Design/Lab05/uart.vhd|
+R11
+R12
+!s100 ATe2Wj=^AVW0hO;gaYC672
+!i10b 1
+Abhv
+R1
+R2
+R3
+Z94 DEx4 work 4 uart 0 22 6TMAeo57SZ66j32D02C3Q2
+l21
+L15
+V7hL>SP70bBbDe0Y>>V6RB2
+!s100 dLMaob8Fzoo;JKV]QYA4S2
+R7
+32
+R91
+R92
+R93
+R11
+R12
+!i10b 1
+Euart_tb
+Z95 w1456538602
+R1
+R2
+R3
+R4
+Z96 8C:/Users/Kin/Desktop/Digital Design/Lab05/uart_tb.vhd
+Z97 FC:/Users/Kin/Desktop/Digital Design/Lab05/uart_tb.vhd
+l0
+L5
+V==UPGTJ>_bzQc?Wdjno_j1
+!s100 IE_8h6dY0>hVIcWz]8o>C1
+R7
+32
+!i10b 1
+Z98 !s108 1456539342.970000
+Z99 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Kin/Desktop/Digital Design/Lab05/uart_tb.vhd|
+Z100 !s107 C:/Users/Kin/Desktop/Digital Design/Lab05/uart_tb.vhd|
+R11
+R12
+Atb
+R94
+R1
+R2
+R3
+Z101 DEx4 work 7 uart_tb 0 22 ==UPGTJ>_bzQc?Wdjno_j1
+l18
+L8
+Z102 V]<HI0dV2P7ikOldXGne5=2
+Z103 !s100 zLB6_^O2zK2n8;bRW^jEA3
+R7
+32
+!i10b 1
+R98
+R99
+R100
+R11
+R12
